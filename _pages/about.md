@@ -19,4 +19,6 @@ She aspires to contribute to these fields.  Her passion lies in creating intuiti
 
 Her passion for gaming is beyond your imagination. Outside of work, she actively participates in **gamejam competitions** and has many achievements. You can check out her portfolio and CV to find out.
 
+You can navigate to the **CV** website to view her detailed information and research experience, and navigate to the **Portfolio** website to see her game-related works.
+
 You can reach her at yinchen2023cs@163.com.
