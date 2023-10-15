@@ -10,4 +10,6 @@ In the front-end, Xamarin.Forms is used to implement various user interaction co
 
 In the back-end, each parameter that the front-end reacts to is processed and results in changes to the user's local, personalized file. Simultaneously, the system utilizes an accelerometer sensor to implement step counting functionality, which is reflected in real-time on the front-end.
 
+In this project, I primarily took on the responsibilities of **front-end development**. With the assistance of hot reloading, I worked on implementing the project's front-end pages.
+
 ![avatar](/images/zuopin2.png)
