@@ -31,6 +31,23 @@ Work experience
     *	Involved in scoping requirements and process design, building technical architectures, and writing core functionalities such as log query and the creation of data visualization dashboards
     *	Utilizing blockchain technology for data storage within the system to enhance its security, alongside the implementation of periodic audits on the blockchain data and tamper-resistant processing
 
+Research experience
+======
+* Design and Implementation of a Deep Learning-based Relation Extraction System - Front-end Programmer
+  * Employed the Vue framework for frontend and FastAPI architecture on the backend, implemented by 
+Neo4j database technologies to perform efficient data storage of over 10000 data points
+  * Deliberately chose this design to ensure highly efficient and robust identification operations, resistance to cyber attacks, partition tolerance and speedy data recovery amongst numerous benefits
+  * Utilized the CNN and RNN model to accurately extract and identify the relationship of input text entities
+  * Visualized the relation extraction using rich Javascript components that displayed interactive data views
+
+
+* MCM Thesis: Trading Strategy in Complex Situations - Invest in a mixed market of gold and bitcoin using turtle trading rules - Software Engineer
+  * Engineered a combination of time series regression models to extrapolate historical data and boosted decision trees to predict the trend in prices
+  * Worked with the ARIMA model for time series, and capitalized on MACD indexes as the training data for the decision tree
+  * Augmented ARIMA’s poor performance in long-term forecasting with the MACD-based decision tree to compensate for its weakness by predicting medium to long-term prices
+  * Implemented turtle trading to develop rule-based trading heuristics in order to nudge investors into making the best trading or holding decisions for financial assets
+ 
+
   
 Skills
 ======
