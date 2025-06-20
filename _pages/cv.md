@@ -24,12 +24,21 @@ Work experience
     *	Implemented logical multi-tenancy through the use of data structures like ThreadLocal, combined with database sharding techniques. This approach ensured efficient data separation for multiple tenants within the system.
 
 
-* Fall 2023: Backend Software Engineer 
+* Fall 2023 - Fall 2024: Backend Software Engineer - Java
   * Huawei Technologies Co., Ltd
   * Responsible for backend development for the Enterprise Data Space product, primarily utilizing Java as the core technology stack.  This product serves as a dependable platform for secure exchange of sensitive and confidential information, capable of handling high concurrency.  It employs a combination of MySQL and MongoDB to ensure data security.
     *	Developing backend services for the enterprise data space in Java as part of the clearinghouse module
     *	Involved in scoping requirements and process design, building technical architectures, and writing core functionalities such as log query and the creation of data visualization dashboards
-    *	Utilizing blockchain technology for data storage within the system to enhance its security, alongside the implementation of periodic audits on the blockchain data and tamper-resistant processing
+    *	Utilizing blockchain technology for data storage within the system to enhance its security, alongside the implementation of periodic audits on the blockchain data and tamper-resistant processing.
+   
+
+* Fall 2024 - Summer 2025:  Backend Software Engineer - Python
+   * Huawei Technologies Co., Ltd
+   * Supported the backend core function development of an intelligent conversational robot tailored to supply chain and data lake niche scenarios, assisting with multi-turn dialogue management and business scenario adaptation
+     * Participated in implementing the core Agent module based on business requirements, including multi-dimensional historical conversation query (via Elasticsearch), rule-based slot filling engine, multi-intent recognition model integration, Elasticsearch data retrieval service, and multi-source result fusion logic, supporting basic response capabilities for complex business queries.
+     * Assisted in code architecture refactoring, adopting the Factory Pattern to optimize the data query pipeline and reducing average query time from 8s to within 3s. Collaborated on restructuring Python-Java cross-language invocation interfaces, decreasing interface response latency by 20% and lower error rates by 15%.
+     * To improve real-time interaction, completed the development of a Server-Sent Events (SSE)-based streaming response interface, supporting dynamic push of intermediate results during conversations. This reduced user perceived waiting time by 40% and significantly enhanced interaction smoothness.
+
 
 Research experience
 ======
