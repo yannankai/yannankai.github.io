@@ -39,6 +39,14 @@ Work experience
      * Assisted in code architecture refactoring, adopting the Factory Pattern to optimize the data query pipeline and reducing average query time from 8s to within 3s. Collaborated on restructuring Python-Java cross-language invocation interfaces, decreasing interface response latency by 20% and lower error rates by 15%.
      * To improve real-time interaction, completed the development of a Server-Sent Events (SSE)-based streaming response interface, supporting dynamic push of intermediate results during conversations. This reduced user perceived waiting time by 40% and significantly enhanced interaction smoothness.
 
+* Summer 2025 – Summer 2026: Backend Software Engineer - Java
+* Huawei Technologies Co., Ltd 
+     * Large-Scale Data Processing: Developed and maintained the RoadCode data pipeline on the ADS cloud platform, supporting 3M+ connected vehicles and 100M+ vehicle events processed daily. Built and optimized workflows for event classification, data packaging/parsing, message publishing, and cloud-side data ingestion.
+     * Distributed Middleware: Leveraged Apache Kafka and Redis to build and optimize asynchronous data-processing pipelines, enabling high-throughput event processing and decoupling upstream and downstream services. Improved overall system throughput, processing efficiency, and reliability.
+     * Data Security & Privacy: Developed and maintained encryption/decryption mechanisms across the vehicle-event processing pipeline, ensuring secure data transmission and processing while protecting sensitive vehicle data and meeting cloud data privacy requirements.
+     * System Refactoring & Optimization: Refactored the existing data publishing pipeline by modularizing business logic, reducing inter-module coupling, and optimizing the end-to-end publishing workflow and exception-handling mechanisms, improving maintainability, scalability, and deployment efficiency.
+     * Microservices & SRE: Participated in SRE and microservice operations for the ADS cloud platform. Used Linux and the ADS operations platform to perform service changes, deployments, and production maintenance, contributing to service reliability and operational stability.
+     * Cloud Resource & Cost Optimization: Participated in cloud resource utilization and service cost analysis, evaluating resource consumption across microservices and supporting cloud resource optimization and cost governance initiatives.
 
 Research experience
 ======
